@@ -7,7 +7,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Webness-Studio/freshdesk-php-sdk"
+            "url": "https://github.com/Annuity-Management/freshdesk-php-sdk"
         }
     ],
     "require": {
