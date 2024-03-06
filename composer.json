@@ -21,7 +21,6 @@
             "homepage": "http://mpclarkson.github.io/"
         }
     ],
-    "minimum-stability": "dev",
     "autoload" : {
         "psr-4": {
             "Mpclarkson\\Laravel\\Freshdesk\\": "src/"
